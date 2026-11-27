@@ -75,7 +75,7 @@ Analisis lanjutan, seperti *differential expression analysis* dan validasi biolo
 
 ## Cara Menjalankan Proyek
 
-1. Buka notebook melalui Google Colab. [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/OmicsLite/REPOSITORY/blob/main/Mini_Project_Gene_Expression_Heatmap.ipynb)
+1. Buka notebook melalui Google Colab. [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1LNiPgABLCZHk5_fJs-T9-s6OZ6g2E6wA)
 2. Jalankan setiap sel kode secara berurutan.
 3. Dataset akan diunduh secara otomatis dari NCBI GEO.
 4. Amati visualisasi dan hasil analisis yang dihasilkan.
